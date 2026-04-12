@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="hmdp.sql" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/src/main/resources/db/hmdp.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="967c479a-eda6-4091-bae6-78af6fba6992" />
+    <data-source id="fb8cf374-4630-4e94-8387-902a573f6c98" />
+    <method v="2" />
+  </configuration>
+</component>
